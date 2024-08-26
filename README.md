@@ -1,6 +1,8 @@
 🚀 Unveiling My Latest Power BI Project: A Dynamic and Interactive Amazon Sales Dashboard Built from Real Sales Data! 📊✨
 Now let's have a glance at the project : 
 
+<img width="1276" alt="SS" src="https://github.com/user-attachments/assets/4f355c7f-f639-48b5-b4b9-1efa4dc4710b">
+
 💳 Amazon Sales Dashboard 📊
 
 **Project's Objective:**
@@ -28,6 +30,5 @@ To develop a dynamic and interactive dashboard that visualizes Amazon sales data
 
 -> Recommendation: 
 After analysing the data, it is observed that Bengaluru City and Maharashtra State customers are the highest spenders. It's important to focus on sending inventory to Fulfilment Centres in these locations to improve delivery speed.
-Scrrenshot: <img width="1276" alt="SS" src="https://github.com/user-attachments/assets/4f355c7f-f639-48b5-b4b9-1efa4dc4710b">
 
 #dataanalyst #powerbi #powerbidashboard #creditcardanalysis #powerbijobs #jobseeker #datajobs #dataanalysisjobs #datavisualization #datamodeling #amazonsalesdashboard
