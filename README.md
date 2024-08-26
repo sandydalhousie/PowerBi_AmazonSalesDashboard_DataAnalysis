@@ -20,6 +20,7 @@ To develop a dynamic and interactive dashboard that visualizes Amazon sales data
 
 **Useful Insights:**
 - Overall revenue: 89.08M
+
 - Total Units Sold: 105K
 - Total Orders: 104K
 - Bengaluru customers are contributing the most in revenue.
@@ -27,9 +28,6 @@ To develop a dynamic and interactive dashboard that visualizes Amazon sales data
 
 -> Recommendation: 
 After analysing the data, it is observed that Bengaluru City and Maharashtra State customers are the highest spenders. It's important to focus on sending inventory to Fulfilment Centres in these locations to improve delivery speed.
-
-🔗 Github Project Link : https://github.com/sandydalhousie/PowerBi_AmazonSalesDashboard_DataAnalysis
-
-Kindly provide feedback and share valuable tips.
+Scrrenshot: <img width="1276" alt="SS" src="https://github.com/user-attachments/assets/4f355c7f-f639-48b5-b4b9-1efa4dc4710b">
 
 #dataanalyst #powerbi #powerbidashboard #creditcardanalysis #powerbijobs #jobseeker #datajobs #dataanalysisjobs #datavisualization #datamodeling #amazonsalesdashboard
